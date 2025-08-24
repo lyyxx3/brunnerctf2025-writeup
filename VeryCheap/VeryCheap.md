@@ -116,6 +116,7 @@ Aaaand this is where I start getting blind, not realizing the Microsoft.WindowsN
 <br>
 Anyways, just go to File Path: `/img_VeryCheap.E01/vol_vol6/Users/Joe/AppData/Local/Packages/Microsoft.WindowsNotepad_8wekyb3d8bbwe/LocalState/TabState/c772a267-3599-412a-8d6c-859b09f9bb33.bin`
 <img width="851" height="152" alt="image" src="https://github.com/user-attachments/assets/d102ab1a-3f29-4ac1-8c1d-7e19a6eee113" />
+<br>
 We got the password: `WhaaaatItCanHaveAnExtraHiddenVolume?!?`
 <br>
 <br>
