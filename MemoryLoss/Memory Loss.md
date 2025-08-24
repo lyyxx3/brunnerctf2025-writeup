@@ -1,5 +1,6 @@
 # Forensic Challenge: Memory Loss
-<img width="803" height="290" alt="image" src="https://github.com/user-attachments/assets/a0582ff6-abe4-4a95-bcd5-f2c539e3d131" />
+<img width="457" height="473" alt="image" src="https://github.com/user-attachments/assets/1943fcff-04f4-423c-be1a-8b0133ae8c37" />
+
 <br>
 <br>
 
