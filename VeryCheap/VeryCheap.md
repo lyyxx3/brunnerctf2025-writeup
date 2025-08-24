@@ -1,5 +1,6 @@
 # Forensic Challenge: VeryCheap
-<img width="774" height="540" alt="image" src="https://github.com/user-attachments/assets/912e9f8f-73dc-4b69-8981-2ed8b9a6fc4e" />
+<img width="449" height="607" alt="image" src="https://github.com/user-attachments/assets/3a162120-e72c-41bf-b2ec-60390ac937e7" />
+
 <br>
 <br>
 
